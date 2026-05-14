@@ -1,16 +1,168 @@
-## Hi there 👋
+# Hi there 👋 I'm Ayush Karmase
 
-<!--
-**Ayushkarmase/ayushkarmase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Future+Software+Engineer;AI+%26+Data+Science+Enthusiast;Full+Stack+Developer;Building+Real+World+Projects" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+# 🚀 About Me
+
+```yaml
+Name: Ayush Karmase
+Location: Maharashtra, India
+Role: Artificial Intelligence & Data Science Engineer
+Interests:
+  - Artificial Intelligence
+  - NLP
+  - Data Science
+  - Backend Development
+  - Full Stack Development
+Currently Building:
+  - AI SQL Query Generator
+  - Personal Finance Visualizer
+  - AI Portfolio Website
+Goal:
+  - Build scalable intelligent systems
+  - Become a top AI Engineer & Entrepreneur
+```
+
+---
+
+# 🌌 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,react,nextjs,nodejs,mongodb,mysql,tailwind,git,github,vscode,html,css" />
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushkarmase&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkarmase&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkarmase&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# ⚡ Featured Projects
+
+## 🤖 AI SQL Query Generator
+
+AI-powered natural language to SQL converter using Llama3 and Ollama.
+
+### Features
+
+* Natural language to SQL generation
+* PostgreSQL integration
+* Conversational database interaction
+* SQL safety validation
+* Responsive frontend UI
+
+---
+
+## 🍔 AI Food Recognition & Calorie Estimation
+
+AI-powered nutrition tracking application.
+
+### Features
+
+* Food image recognition
+* Calorie estimation using Gemini 2.5 Flash
+* Multi-food detection
+* Instant nutritional summaries
+
+---
+
+## 📊 NBA Attainment Calculation System
+
+Web-based automation system for accreditation tracking.
+
+### Features
+
+* Role-based dashboards
+* Automated attainment analysis
+* Data visualization
+* Performance reporting automation
+
+---
+
+# 🧠 Currently Learning
+
+* Advanced Python
+* AI Integrations
+* Backend Development
+* System Design
+* Open Source Contribution
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkarmase&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# 🌍 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/ayushkarmase">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/AyushKarmase">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:ayushkarmase7@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+
+
+---
+
+## Step 3
+
+Copy this complete code into README.md
+
+---
+
+## Step 4
+
+Replace:
+
+```text
+ayushkarmase
+www.linkedin.com/in/ayushkarmase
+ayushkarmase7@gmail.com
+```
+
+with your actual details.
+
+---
+
+<div align="center">
+
+### "Code. Build. Evolve. 🚀"
+
+</div>
