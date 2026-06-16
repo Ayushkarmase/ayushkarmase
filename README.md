@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Future+Software+Engineer;AI+%26+Data+Science+Enthusiast;Full+Stack+Developer;Building+Real+World+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Enthusiast;Building+Real+World+Projects" />
 
 </div>
 
