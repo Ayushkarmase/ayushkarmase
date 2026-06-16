@@ -91,17 +91,6 @@ Web-based automation system for accreditation tracking.
 * Backend Development
 * System Design
 * Open Source Contribution
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkarmase&theme=tokyo-night&hide_border=true" />
-
-</div>
-
 ---
 
 # 🌍 Connect With Me
@@ -123,33 +112,3 @@ Web-based automation system for accreditation tracking.
 </div>
 
 ---
-
-
-
----
-
-## Step 3
-
-Copy this complete code into README.md
-
----
-
-## Step 4
-
-Replace:
-
-```text
-ayushkarmase
-www.linkedin.com/in/ayushkarmase
-ayushkarmase7@gmail.com
-```
-
-with your actual details.
-
----
-
-<div align="center">
-
-### "Code. Build. Evolve. 🚀"
-
-</div>
