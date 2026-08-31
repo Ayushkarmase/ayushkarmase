@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- HEADER ANIMATION BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=220&section=header&text=AYUSH%20KARMASE&fontSize=42&fontAlignY=38&animation=twinkling&fontColor=00F5FF&desc=%E2%96%B8%20Artificial%20Intelligence%20%26%20Data%20Science%20Engineer%20%E2%97%80&descSize=16&descAlignY=62&descColor=B0E0E6" width="100%" alt="Ayush Karmase Header Banner"/>
+
 
 <!-- DYNAMIC TYPING SVG -->
 <a href="https://github.com/Ayushkarmase">
